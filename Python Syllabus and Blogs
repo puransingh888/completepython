@@ -1,0 +1,78 @@
+Variables, Datatypes, Keywords, Litrals
+Operators, Comments
+Loops, Pass, continue, Break
+Strings
+Lists
+Tuples
+Sets
+Dictionary
+Functions
+Built In Functions
+Lambda Functions
+Files I/O
+Modules
+Exceptions
+Dates
+Regex
+CSV Files
+List Comprehensions, Assert Keyword
+Collection Module
+Math Module
+OS
+Randon Module
+Statistics
+Sys module
+Glob Module
+Python Arrays
+Magic Methods
+Enumerate
+Decorators
+Generators
+Pickel Files, Reload Module
+Logger Module
+JSON files and Retrival
+Python GUI
+Itertools
+Python OOPs
+Python MySQL
+
+Python Stack
+Python Queue
+PySpark MLLib
+
+Web Scrapping:
+  Beautiful Soup
+  Scrapy
+Automation using Selenium
+
+Threading and Multithreading (Pool)
+Multi Processing
+Asyncio
+CORoutines
+
+Network and SOcket Programming
+Various Exit Codes
+ZIP
+Boto3
+.copy()
+imutils
+sub process
+
+Pandas
+Numpy
+Matplotlib
+
+Flask
+Django
+
+Debugging
+Unit Testing --> Pytest
+Automated Testing --> Selenium
+
+
+
+Important Blog Names/ Links:
+  Python HDFS for large Datasets
+  How to change .py to .exe
+  Image Types and ways to save
+
